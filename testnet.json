@@ -1,10 +1,10 @@
 [
   {
-    "name": "Somnia Testnet",
-    "rpcUrl": "https://dream-rpc.somnia.network",
-    "chainId": "50312",
-    "symbol": "STT",
-    "explorer": "https://somnia-testnet.socialscan.io"
+    "name": "Ethereum Sepolia",
+    "rpcUrl": "https://ethereum-sepolia-rpc.publicnode.com",
+    "chainId": "11155111",
+    "symbol": "ETH",
+    "explorer": "https://sepolia.etherscan.io"
   },
   {
     "name": "O3Layer Testnet",
@@ -175,3 +175,4 @@
     "explorer": "https://explorer.wvm.dev"
   }
 ]
+
